@@ -1,0 +1,8 @@
+{
+  "name": "Custom CSS",
+  "version": "1.0.0",
+  "author": "WmeLuna",
+  "description": "Custom CSS",
+  "license": "MIT",
+  "theme": "theme.css"
+}

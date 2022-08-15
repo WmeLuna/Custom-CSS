@@ -1,0 +1,21 @@
+.message-1zs6Od {
+  max-height: unset;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.message-1zs6Od .messageContent-1SOr75 {
+  height: max-content;
+  white-space: break-spaces;
+  margin-left: 8px;
+}
+.message-1zs6Od > span:first-child {
+  margin-left: 8px;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.375rem;
+}
+.newMessageCount-jqlY9z::before {
+ content: "•";
+ position: sticky;
+ left: 20px;
+}
